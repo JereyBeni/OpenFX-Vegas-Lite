@@ -1,0 +1,28 @@
+# Build
+build/
+bin/
+obj/
+*.o
+*.obj
+*.lib
+*.dll
+*.exe
+*.ofx
+*.ofx.bundle/
+
+# VS
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+
+# Mac/Linux
+.DS_Store
+*.so
+*.dylib
+
+# Temp
+*.tmp
+*~
